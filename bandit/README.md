@@ -14,3 +14,29 @@ Also, your favorite search-engine is your friend. Learn how to use it! I recomme
 Lastly, if you are still stuck, you can join us on IRC.
 
 You’re ready to start! Begin with Level 0, linked at the left of this page. Good luck!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*All descriptions are inclosed in quotes and are from the linked site.*
