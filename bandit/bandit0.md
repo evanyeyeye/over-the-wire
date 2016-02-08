@@ -4,6 +4,10 @@
 
 **Solution**
 
+```
+$ ssh bandit0@bandit.labs.overthewire.org
+```
 
+Password for level is given as bandit0.
 
 
