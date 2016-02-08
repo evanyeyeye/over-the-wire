@@ -11,7 +11,8 @@ There are several things you can try when you are unsure how to continue:
 First, if you know a command, but don’t know how to use it, try the manual (man page) by entering “man <command>” (without the quotes). e.g. if you know about the “ls” command, type: man ls. The “man” command also has a manual, try it. Press q to quit the man command.
 Second, if there is no man page, the command might be a shell built-in. In that case use the “help <X>” command. E.g. help cd
 Also, your favorite search-engine is your friend. Learn how to use it! I recommend Google.
-Lastly, if you are still stuck, you can join us on IRC.
+Lastly, if you are still stuck, create an issue - I will gladly respond with advice!
 
+Good luck!
 
-*All descriptions are property of the linked site.*
+*All descriptions are borrowed from OverTheWire.*

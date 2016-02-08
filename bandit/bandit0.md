@@ -8,6 +8,6 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 $ ssh bandit0@bandit.labs.overthewire.org
 ```
 
-Password for level is given as bandit0.
+Password for level is given as bandit0
 
-
+*All descriptions are borrowed from OverTheWire.*
