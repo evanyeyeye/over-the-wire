@@ -4,11 +4,11 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 
 **Solution**
 
-```
-bandit12@melinda:~$ ls
-data.txt
-bandit12@melinda:~$ mkdir /tmp/evanyeyeye
-bandit12@melinda:~$ cp data.txt /tmp/evanyeyeye/data.txt
+
+>bandit12@melinda:~$ ls
+>data.txt
+>bandit12@melinda:~$ mkdir /tmp/evanyeyeye
+>bandit12@melinda:~$ cp data.txt /tmp/evanyeyeye/data.txt
 bandit12@melinda:~$ cd /tmp/evanyeyeye         
 bandit12@melinda:/tmp/evanyeyeye$ ls
 data.txt
