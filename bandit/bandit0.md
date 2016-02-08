@@ -4,8 +4,6 @@
 
 **Solution**
 
-'''
-var yo = 1;
-'''
+
 
 
