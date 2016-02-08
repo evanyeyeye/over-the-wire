@@ -13,4 +13,8 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 Password is boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
+<<<<<<< HEAD
 *All descriptions are borrowed from OverTheWire.*
+=======
+ 
+>>>>>>> origin/master
