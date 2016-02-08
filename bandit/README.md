@@ -13,30 +13,5 @@ Second, if there is no man page, the command might be a shell built-in. In that 
 Also, your favorite search-engine is your friend. Learn how to use it! I recommend Google.
 Lastly, if you are still stuck, you can join us on IRC.
 
-You’re ready to start! Begin with Level 0, linked at the left of this page. Good luck!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 *All descriptions are property of the linked site.*
