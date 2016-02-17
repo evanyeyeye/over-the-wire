@@ -92,8 +92,8 @@ bandit16@melinda:~$ mkdir /tmp/evanyeyeye_bandit17
 bandit16@melinda:~$ nano /tmp/evanyeyeye_bandit17/sshkey.private
 bandit16@melinda:~$ echo Copy and paste the RSA private key into the file.
 Copy and paste the RSA private key into the file.
-bandit16@melinda:~$ ssh -i sshkey.private bandit17@localhost
-Warning: Identity file sshkey.private not accessible: No such file or directory.
+bandit16@melinda:~$ chmod 400 /tmp/evanyeyeye_bandit17/sshkey.private
+bandit16@melinda:~$ ssh -i /tmp/evanyeyeye_bandit17/sshkey.private bandit17@localhost
 Could not create directory '/home/bandit16/.ssh'.
 The authenticity of host 'localhost (127.0.0.1)' can't be established.
 ECDSA key fingerprint is 05:3a:1c:25:35:0a:ed:2f:cd:87:1c:f6:fe:69:e4:f6.
