@@ -14,7 +14,7 @@ Correct!
 BfMYroe26WYalil77FoDi9qh59eK5xNr
 ```
 
-Password is 
+Password is BfMYroe26WYalil77FoDi9qh59eK5xNr
 
 *All descriptions are borrowed from OverTheWire.*
 
