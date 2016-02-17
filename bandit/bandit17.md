@@ -88,8 +88,18 @@ dxviW8+TFVEBl1O4f7HVm6EpTscdDxU+bCXWkfjuRb7Dy9GOtt9JPsX8MBTakzh3
 vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 -----END RSA PRIVATE KEY-----
 read:errno=0
+bandit16@melinda:~$ mkdir /tmp/evanyeyeye_bandit17
+bandit16@melinda:~$ nano /tmp/evanyeyeye_bandit17/sshkey.private
+bandit16@melinda:~$ echo Copy and paste the RSA private key into the file.
+Copy and paste the RSA private key into the file.
+bandit16@melinda:~$ ssh -i sshkey.private bandit17@localhost
+Warning: Identity file sshkey.private not accessible: No such file or directory.
+Could not create directory '/home/bandit16/.ssh'.
+The authenticity of host 'localhost (127.0.0.1)' can't be established.
+ECDSA key fingerprint is 05:3a:1c:25:35:0a:ed:2f:cd:87:1c:f6:fe:69:e4:f6.
+Are you sure you want to continue connecting (yes/no)? yes
 ```
 
-Password is cluFn7wTiGryunymYOu4RcffSxQluehd
+Connect with the RSA private key.
 
 *All descriptions are borrowed from OverTheWire.*
