@@ -3,6 +3,7 @@
 The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
 
 For this level, we will also refer to a line in the previous level's description:
+
 The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. 
 
 **Solution**
