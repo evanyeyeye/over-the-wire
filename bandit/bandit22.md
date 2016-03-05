@@ -25,6 +25,6 @@ bandit21@melinda:/etc/cron.d$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
 ```
 
-Password is Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+Password is Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI 
 
 *All descriptions are borrowed from OverTheWire.*
