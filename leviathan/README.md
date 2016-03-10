@@ -5,8 +5,11 @@ http://overthewire.org/wargames/leviathan/
 Dare you face the lord of the oceans?
 
 Summary:
+
 Difficulty:     1/10
+
 Levels:         8
+
 Platform:   Linux/x86
 
 This wargame doesn't require any knowledge about programming - just a bit of common
