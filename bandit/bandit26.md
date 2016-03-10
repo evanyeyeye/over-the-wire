@@ -50,15 +50,15 @@ bandit25@melinda:~$ ssh -i bandit26.sshkey bandit26@localhost
 
 *Vi text editor*
 ```
-*instructions:*
-*you may now pull terminal height to what it is normally*
-*click v on keyboard to enter editor from more interactive shell*
-*click the ESC key, then type:*
+instructions:
+you may now pull terminal height to what it is normally
+click v on keyboard to enter editor from more interactive shell
+click the ESC key, then type:
 
 :r /etc/bandit_pass/bandit26
 
-*keep clicking enter until the warnings and text labels disappear*
-*then on your screen should be:*
+keep clicking enter until the warnings and text labels disappear
+then on your screen should be:
 
   _                     _ _ _   ___   __
 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
